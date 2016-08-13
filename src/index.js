@@ -19,6 +19,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import SearchBar from 'search_bar';
+
+
+const API_KEY = "AIzaSyARzLoBx5a9YOTHmWUFGxIyzDLpnUxYcO4";
+
 // Create a new component. This component should produce some HTML.
 // const: final value of the variable.
 const App = () => {
