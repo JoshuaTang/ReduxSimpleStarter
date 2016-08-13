@@ -26,6 +26,7 @@ const API_KEY = "AIzaSyARzLoBx5a9YOTHmWUFGxIyzDLpnUxYcO4";
 
 // Create a new component. This component should produce some HTML.
 // const: final value of the variable.
+// functional component
 const App = () => {
   return (
     <div>
